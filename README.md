@@ -1,4 +1,4 @@
-**Title**: **Enhancing Image Classification Accuracy through Data Augmentation**
+**Enhancing Image Classification Accuracy through Data Augmentation**
 
 **Introduction:**
 
